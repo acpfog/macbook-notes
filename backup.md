@@ -45,8 +45,6 @@ Click on the Time Machine icon and select "Back Up Now" to begin the instant bac
 
 ##### Materials helped me
 
-1.  http://www.makeuseof.com/tag/turn-nas-windows-share-time-machine-backup/
-2.
-http://www.makeuseof.com/tag/backup-mac-homemade-time-capsule/
-3.
-http://osxdaily.com/2010/07/21/how-to-do-manual-backups-with-time-machine/
+1. http://www.makeuseof.com/tag/turn-nas-windows-share-time-machine-backup/
+2. http://www.makeuseof.com/tag/backup-mac-homemade-time-capsule/
+3. http://osxdaily.com/2010/07/21/how-to-do-manual-backups-with-time-machine/
